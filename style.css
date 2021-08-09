@@ -164,6 +164,10 @@ header{
 
 }
 
+.gallery{
+    
+}
+
 .photo {
     padding: 15px;
 }
@@ -317,13 +321,14 @@ body{
     padding: 50px 0px;
 }
 
-.Connection {
+.connection{
     background: transparent;
-    width: 100%;
+    width: 50%;
     margin: 15px auto;
     display: block;
     padding: 15px;
 }
+
 
 
 
